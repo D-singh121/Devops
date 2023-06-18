@@ -3,4 +3,5 @@ This is the bug fix in development branch
 
 
 This feature added for rebase pract
+This feature added for rebase 2nd commit pract
 
