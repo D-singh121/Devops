@@ -1,2 +1,6 @@
 "This is first feature of our application"
 This is the bug fix in development branch
+
+
+This feature added for rebase pract
+
