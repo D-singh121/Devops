@@ -3,7 +3,7 @@ This is the bug fix in development branch
 
 After bug fixing, this is the new feature with minor alterations
 This is the advancement of the previous feature	
-
+Feature 2 is completed and ready for release
 
 This feature added for rebase pract
 This feature added for rebase 2nd commit pract
