@@ -1,6 +1,8 @@
 "This is first feature of our application"
 This is the bug fix in development branch
 
+After bug fixing, this is the new feature with minor alterations	
+
 
 This feature added for rebase pract
 This feature added for rebase 2nd commit pract
